@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //Pedimos los dos numeros por consola y los asignamos a sus variables.
+        //Pedimos los dos números por consola y los asignamos a sus variables.
         System.out.println("Introduzca el primer número a comparar:\n");
         Scanner sc=new Scanner(System.in);
         double numero1=sc.nextDouble();
