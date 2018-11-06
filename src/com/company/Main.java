@@ -17,5 +17,7 @@ public class Main {
         }else{
             System.out.println("Los dos números no son iguales:\n");
         }
+        //Cerramos el scanner
+        sc.close();
     }
 }
